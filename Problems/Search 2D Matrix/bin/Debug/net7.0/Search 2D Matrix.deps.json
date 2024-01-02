@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Search 2D Matrix/1.0.0": {
+        "runtime": {
+          "Search 2D Matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search 2D Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\bin\Debug\net7.0\Valid Sudoku.exe
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\bin\Debug\net7.0\Valid Sudoku.deps.json
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\bin\Debug\net7.0\Valid Sudoku.runtimeconfig.json
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\bin\Debug\net7.0\Valid Sudoku.dll
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\bin\Debug\net7.0\Valid Sudoku.pdb
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.dll
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\refint\Valid Sudoku.dll
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.pdb
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\Valid Sudoku.genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode problems\Valid Sudoku\obj\Debug\net7.0\ref\Valid Sudoku.dll

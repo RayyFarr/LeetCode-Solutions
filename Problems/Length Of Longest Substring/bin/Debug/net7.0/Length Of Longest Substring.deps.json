@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Length Of Longest Substring/1.0.0": {
+        "runtime": {
+          "Length Of Longest Substring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Length Of Longest Substring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

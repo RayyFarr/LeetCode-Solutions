@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\bin\Debug\net7.0\Sort Colors.exe
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\bin\Debug\net7.0\Sort Colors.deps.json
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\bin\Debug\net7.0\Sort Colors.runtimeconfig.json
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\bin\Debug\net7.0\Sort Colors.dll
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\bin\Debug\net7.0\Sort Colors.pdb
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.dll
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\refint\Sort Colors.dll
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.pdb
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\Sort Colors.genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode problems\Sort Colors\obj\Debug\net7.0\ref\Sort Colors.dll

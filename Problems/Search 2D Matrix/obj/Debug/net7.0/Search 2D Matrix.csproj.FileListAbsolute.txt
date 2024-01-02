@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\bin\Debug\net7.0\Search 2D Matrix.exe
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\bin\Debug\net7.0\Search 2D Matrix.deps.json
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\bin\Debug\net7.0\Search 2D Matrix.runtimeconfig.json
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\bin\Debug\net7.0\Search 2D Matrix.dll
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\bin\Debug\net7.0\Search 2D Matrix.pdb
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.dll
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\refint\Search 2D Matrix.dll
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.pdb
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\Search 2D Matrix.genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode problems\Search 2D Matrix\obj\Debug\net7.0\ref\Search 2D Matrix.dll

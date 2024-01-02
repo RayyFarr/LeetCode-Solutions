@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).exe
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).deps.json
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).runtimeconfig.json
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).dll
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).pdb
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).dll
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\refint\Sqrt(x).dll
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).pdb
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode problems\Sqrt(x)\obj\Debug\net7.0\ref\Sqrt(x).dll
