@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\bin\Debug\net7.0\Reverse Integer.exe
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\bin\Debug\net7.0\Reverse Integer.deps.json
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\bin\Debug\net7.0\Reverse Integer.runtimeconfig.json
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\bin\Debug\net7.0\Reverse Integer.dll
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\bin\Debug\net7.0\Reverse Integer.pdb
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.dll
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\refint\Reverse Integer.dll
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.pdb
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\Reverse Integer.genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode Problems\Reverse Integer\obj\Debug\net7.0\ref\Reverse Integer.dll
