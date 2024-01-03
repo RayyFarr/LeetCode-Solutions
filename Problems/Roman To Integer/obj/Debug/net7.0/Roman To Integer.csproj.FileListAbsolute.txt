@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\bin\Debug\net7.0\Roman To Integer.exe
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\bin\Debug\net7.0\Roman To Integer.deps.json
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\bin\Debug\net7.0\Roman To Integer.runtimeconfig.json
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\bin\Debug\net7.0\Roman To Integer.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\bin\Debug\net7.0\Roman To Integer.pdb
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\refint\Roman To Integer.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.pdb
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\Roman To Integer.genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Roman To Integer\obj\Debug\net7.0\ref\Roman To Integer.dll
