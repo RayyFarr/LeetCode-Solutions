@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Median of Sorted Array", "Median of Sorted Array.csproj", "{F7B21D4E-2EF1-4DE1-BC76-DE049DA3806B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B21D4E-2EF1-4DE1-BC76-DE049DA3806B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B21D4E-2EF1-4DE1-BC76-DE049DA3806B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B21D4E-2EF1-4DE1-BC76-DE049DA3806B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B21D4E-2EF1-4DE1-BC76-DE049DA3806B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE7C0C4-7A07-4857-A293-F25454676F6B}
+	EndGlobalSection
+EndGlobal
