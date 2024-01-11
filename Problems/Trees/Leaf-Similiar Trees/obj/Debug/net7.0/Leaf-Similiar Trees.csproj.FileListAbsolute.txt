@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\bin\Debug\net7.0\Leaf-Similiar Trees.exe
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\bin\Debug\net7.0\Leaf-Similiar Trees.deps.json
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\bin\Debug\net7.0\Leaf-Similiar Trees.runtimeconfig.json
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\bin\Debug\net7.0\Leaf-Similiar Trees.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\bin\Debug\net7.0\Leaf-Similiar Trees.pdb
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\refint\Leaf-Similiar Trees.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.pdb
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\Leaf-Similiar Trees.genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Trees\Leaf-Similiar Trees\obj\Debug\net7.0\ref\Leaf-Similiar Trees.dll
