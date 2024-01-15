@@ -1,0 +1,15 @@
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.exe
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.deps.json
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.runtimeconfig.json
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.pdb
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.csproj.AssemblyReference.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.AssemblyInfoInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.AssemblyInfo.cs
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.csproj.CoreCompileInputs.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\refint\Contains Duplicate.dll
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.pdb
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.genruntimeconfig.cache
+F:\Nihan\programming shit\LeetCode Problems\LeetCode-Solutions\Problems\Array\Contains Duplicate\obj\Debug\net7.0\ref\Contains Duplicate.dll
