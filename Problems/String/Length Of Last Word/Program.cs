@@ -1,0 +1,1 @@
+﻿int LengthOfLastWord(string s) => s.Trim().Split(" ").Last().Length;
